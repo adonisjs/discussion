@@ -1,6 +1,4 @@
-# Discussing AdonisJs
-
-![](https://cloud.githubusercontent.com/assets/2793951/19925021/865beda4-a0ee-11e6-85bb-20ccd8f72211.png)
+![AdonisJs Discussion](https://cloud.githubusercontent.com/assets/2793951/20223951/43af9f1e-a83c-11e6-8275-acd669c425f5.png)
 
 Over the past few months AdonisJs community has grown to a few hundred users and their have been lots of random requests by everyone in the community.
 
