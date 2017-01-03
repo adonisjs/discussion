@@ -25,6 +25,10 @@ The RFC process will give a good way of providing direct feedback to smaller par
 [design]: #detailed-design
 
 The bulk of this RFC is rendered in the updates to the README as well as a template RFC markdown file.
+
+[Updated Readme](https://github.com/rtablada/discussion/blob/rfc-implementation/README.md)
+[Template for RFC](https://github.com/rtablada/discussion/blob/rfc-implementation/0000-template.md)
+
 The RFC process is described below (as copied from the updated README)
 
 ---
